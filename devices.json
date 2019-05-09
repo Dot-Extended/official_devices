@@ -1,14 +1,15 @@
 [
-  {"name": "Redmi Note 5 Pro",
+  {
+   "name": "Redmi Note 5 Pro",
    "brand": "Xiaomi",
    "codename": "whyred",
    "sf_dir": "https://sourceforge.net/projects/dot-extended/files/whyred/",
    "maintainer_name": "Hung Phan (hungphan2001)",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
-    "xda_thread": """
+    "xda_thread": ""
   },
   {
-     "name": "Redmi Note 4",
+    "name": "Redmi Note 4",
     "brand": "Xiaomi",
     "codename": "mido",
     "sf_dir": "https://sourceforge.net/projects/dot-extended/files/mido/",
