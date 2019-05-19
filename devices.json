@@ -8,6 +8,15 @@
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
     "xda_thread": ""
   },
+   {
+   "name": "Redmi 5 Plus",
+   "brand": "Xiaomi",
+   "codename": "whyred",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/vince/",
+   "maintainer_name": "Hung Phan (hungphan2001)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
+    "xda_thread": ""
+  },
   {
     "name": "Redmi Note 4",
     "brand": "Xiaomi",
