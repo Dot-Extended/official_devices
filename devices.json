@@ -9,6 +9,24 @@
     "xda_thread": ""
   },
    {
+   "name": "Pocophone F1",
+   "brand": "Xiaomi",
+   "codename": "beryllium",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/beryllium/",
+   "maintainer_name": "Venkat Yadlapati(Venkat3620)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+    "xda_thread": ""
+  },
+  {
+   "name": "Mi A2",
+   "brand": "Xiaomi",
+   "codename": "jasmine_sprout",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/jasmine_sprout/",
+   "maintainer_name": "Venkat Yadlapati(Venkat3620)",
+    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+    "xda_thread": ""
+  },
+  {
    "name": "Redmi 5 Plus",
    "brand": "Xiaomi",
    "codename": "whyred",
