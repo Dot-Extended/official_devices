@@ -8,22 +8,13 @@
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
     "xda_thread": ""
   },
-   {
-   "name": "Pocophone F1",
-   "brand": "Xiaomi",
-   "codename": "beryllium",
-   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/beryllium/",
-   "maintainer_name": "Venkat Yadlapati(Venkat3620)",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
-    "xda_thread": ""
-  },
   {
-   "name": "Mi A2",
+   "name": "Mi 8SE",
    "brand": "Xiaomi",
-   "codename": "jasmine_sprout",
-   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/jasmine_sprout/",
-   "maintainer_name": "Venkat Yadlapati(Venkat3620)",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8507969",
+   "codename": "sirius",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/sirius/",
+   "maintainer_name": "Arix-Arx(arix_arx)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=8079544",
     "xda_thread": ""
   },
   {
