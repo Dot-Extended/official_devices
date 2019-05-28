@@ -18,6 +18,15 @@
     "xda_thread": ""
   },
   {
+   "name": "Mi 8 Lite",
+   "brand": "Xiaomi",
+   "codename": "platina",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/platina/",
+   "maintainer_name": "nysadev(nysadev)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=7232898",
+    "xda_thread": ""
+  },
+  {
    "name": "Redmi 5 Plus",
    "brand": "Xiaomi",
    "codename": "whyred",
