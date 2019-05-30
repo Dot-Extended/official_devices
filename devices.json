@@ -4,9 +4,9 @@
    "brand": "Xiaomi",
    "codename": "whyred",
    "sf_dir": "https://sourceforge.net/projects/dot-extended/files/whyred/",
-   "maintainer_name": "Hung Phan (hungphan2001)",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
-    "xda_thread": ""
+   "maintainer_name": "Qasim ali(QasimXAli)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=5088586",
+   "xda_thread": ""
   },
   {
    "name": "Mi 8SE",
@@ -42,6 +42,6 @@
     "sf_dir": "https://sourceforge.net/projects/dot-extended/files/mido/",
     "maintainer_name": "Hung Phan (hungphan2001)",
     "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
-    "xda_thread": ""
+    "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/pie-dot-extended-v3-2-t3935103"
   }
   ]
