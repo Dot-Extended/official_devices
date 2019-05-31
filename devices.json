@@ -18,6 +18,15 @@
     "xda_thread": ""
   },
   {
+   "name": "Redmi 4 Prime",
+   "brand": "Xiaomi",
+   "codename": "markw",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/markw/",
+   "maintainer_name": "DarkAngelGR(@DarkAngelGR)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
+    "xda_thread": ""
+  },
+  {
    "name": "Mi 8 Lite",
    "brand": "Xiaomi",
    "codename": "platina",
