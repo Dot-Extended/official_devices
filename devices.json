@@ -22,8 +22,17 @@
    "brand": "Xiaomi",
    "codename": "markw",
    "sf_dir": "https://sourceforge.net/projects/dot-extended/files/markw/",
-   "maintainer_name": "DarkAngelGR(@DarkAngelGR)",
+   "maintainer_name": "DarkAngelGR(DarkAngelGR)",
    "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
+    "xda_thread": ""
+  },
+  {
+   "name": "Redmi 4X",
+   "brand": "Xiaomi",
+   "codename": "santoni",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/santoni/",
+   "maintainer_name": "Bikram Mukherjee(Bikram_M)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=9751827",
     "xda_thread": ""
   },
   {
