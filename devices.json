@@ -18,6 +18,15 @@
     "xda_thread": ""
   },
   {
+   "name": "Redmi Note 5/5 Plus",
+   "brand": "Xiaomi",
+   "codename": "vince",
+   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/vince/",
+   "maintainer_name": "Blacksuan19(blacksuan19)",
+   "maintainer_url": "https://forum.xda-developers.com/member.php?u=5980272",
+    "xda_thread": ""
+  },
+  {
    "name": "Redmi 4 Prime",
    "brand": "Xiaomi",
    "codename": "markw",
@@ -42,15 +51,6 @@
    "sf_dir": "https://sourceforge.net/projects/dot-extended/files/platina/",
    "maintainer_name": "nysadev(nysadev)",
    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7232898",
-    "xda_thread": ""
-  },
-  {
-   "name": "Redmi 5 Plus",
-   "brand": "Xiaomi",
-   "codename": "whyred",
-   "sf_dir": "https://sourceforge.net/projects/dot-extended/files/vince/",
-   "maintainer_name": "Hung Phan (hungphan2001)",
-    "maintainer_url": "https://forum.xda-developers.com/member.php?u=7504475",
     "xda_thread": ""
   },
   {
